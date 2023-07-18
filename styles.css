@@ -1,6 +1,7 @@
 body {
   background: url("https://c1.wallpaperflare.com/preview/182/936/1023/hacker-silhouette-hack-anonymous.jpg");
-  background-size: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
   margin: 0;
   color: white;
   min-height: 100vh;
