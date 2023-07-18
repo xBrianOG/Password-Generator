@@ -12,7 +12,8 @@ body {
 }
 
 .container {
-  background-color: transparent;
+  background-color: black;
+  opacity: 0.8;
   padding: 3rem;
   border-radius: 1rem;
   border: 2px solid black;
@@ -63,7 +64,8 @@ label {
 }
 
 .btn {
-  background-color: transparent;
+  background-color: #000;
+  opacity: 0.5;
   grid-column: span 2;
   height: 2.5rem;
   border-radius: 5rem;
