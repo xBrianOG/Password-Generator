@@ -15,7 +15,7 @@ body {
   background-color: transparent;
   padding: 3rem;
   border-radius: 1rem;
-  border: 2px solid rgb(87, 24, 168);
+  border: 2px solid black;
   display: flex;
   justify-content: center;
   align-items: center;
